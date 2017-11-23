@@ -47,5 +47,8 @@
     "fsm-as-promised": "^0.13.0",
     "visibilityjs": "^1.2.3",
     "webrtc-adapter": "^1.4.0"
+  },
+  "directories": {
+    "doc": "docs"
   }
 }
